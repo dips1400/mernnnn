@@ -1,0 +1,13 @@
+# Node modules
+/node_modules
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# IDE or editor specific files
+.vscode/
+.idea/
