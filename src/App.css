@@ -1,0 +1,81 @@
+body{
+  /* background-color: #212121; */
+  padding: 0.6rem;
+  margin: 0;
+  height: auto;
+}
+
+.App {
+  background-color: #fff;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  height: auto;
+}
+
+h1{
+  margin: 0;
+  font-size: 24px;
+}
+
+.content1{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.6rem;
+}
+
+.content1 select{
+  width: 25rem;
+  height: 3rem;
+  border-radius: 0.5rem;
+  padding: 0.4rem;
+  background-color:#ffffff;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+
+.statistics-box {
+  margin-top: 20px;
+  display: flex;
+}
+
+.statistics-box p{
+  margin: 10px;
+  background-color: #9887de;
+  padding: 4rem;
+  border-radius: 0.5rem;
+}
+
+.transaction-list input {
+  margin: 10px;
+  padding: 8px;
+}
+
+.transaction-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.transaction-list li {
+  background: #f4f4f4;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.pagination {
+  margin-top: 10px;
+}
+
+.pagination button {
+  padding: 5px 10px;
+  margin: 0 5px;
+}
+
+.diagram{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 3rem;
+}
