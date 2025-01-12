@@ -14,3 +14,4 @@ Run the server.js (node server.js) which will run on port 3000
 
 Then run npm start which will ask to run on a different port provide yes and it will run on port 3001
 
+Or click on the vercel link (https://mernnnn-three.vercel.app/) in the right
